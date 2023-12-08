@@ -1,0 +1,16 @@
+<!-- formulario-tarea.component.html -->
+
+<div class="container mt-3">
+  <h2>Agregar Nueva Tarea</h2>
+  <form (submit)="agregarTarea()" [formGroup]="form" >
+    <div class="form-group">
+      <label for="titulo">Título:</label>
+      <input type="text" class="form-control" id="titulo" formControlName="titulo">
+    </div>
+    <div class="form-group">
+      <label for="descripcion">Descripción:</label>
+      <textarea class="form-control" id="descripcion" formControlName="descripcion"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary mt-2 btn-sm mb-3">Agregar Tarea</button>
+  </form>
+</div>
