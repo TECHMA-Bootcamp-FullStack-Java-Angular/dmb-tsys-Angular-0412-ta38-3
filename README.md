@@ -2,25 +2,25 @@
 
 # BootCamp T-Systems
 
-![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-38.1-orange)  ![Java Version](https://img.shields.io/badge/Angular-17-red)
+![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-38.3-orange)  ![Java Version](https://img.shields.io/badge/Angular-17-red)
 
-# T38.1 - Componentes  🅰️
+# T38.3 - Componentes  🅰️
                              
 This repository contains the Bootcamp tasks 👨‍💻
 
 [Click here to see the exercise](https://main.d3jt4fgjozvx1y.amplifyapp.com/)
 
-![image](https://raw.githubusercontent.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-Angular-0412-ta38.1/main/src/assets/Captura.png)
+![image](https://raw.githubusercontent.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-Angular-0412-ta38-3/main/src/assets/Captura.png)
 
 ## Rules of use 🤜🏼🤛🏼
 
 - Run the clone repository in your terminal:
 
-`git clone https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-Angular-0412-ta38.2`
+`git clone https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-Angular-0412-ta38-3`
 
 - Access the folder with the command:
 
-`cd dmb-tsys-Angular-0412-ta38.2`
+`cd dmb-tsys-Angular-0412-ta38-3`
 
 - Open the repository with your IDE
 
